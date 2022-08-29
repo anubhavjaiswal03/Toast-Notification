@@ -19,7 +19,6 @@ function createNotification(message = null, type = null) {
 
 	notif.classList.add(type);
 	notif.innerText = message;
-	// console.log(type, message);
 
 	toasts.appendChild(notif);
 
