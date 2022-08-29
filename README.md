@@ -1,3 +1,4 @@
 # Toast Notification
-
-![Toast Notification](toast-notification.gif)
+<p align="justify">
+  ![Toast Notification](toast-notification.gif)
+</p>
